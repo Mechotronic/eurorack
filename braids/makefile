@@ -42,7 +42,7 @@ TARGET         = braids
 PACKAGES       = braids braids/drivers stmlib/utils stmlib/system
 RESOURCES      = braids/resources
 
-TOOLCHAIN_PATH ?= /usr/local/arm-4.8.3/
+TOOLCHAIN_PATH ?= C:/ARM/GNU_Tools_ARM_Embedded/8_2018-q4-major/
 
 include stmlib/makefile.inc
 

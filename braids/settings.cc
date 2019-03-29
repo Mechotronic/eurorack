@@ -38,8 +38,9 @@ namespace braids {
 using namespace stmlib;
 
 const SettingsData kInitSettings = {
-  MACRO_OSC_SHAPE_CSAW,
-  
+  //MACRO_OSC_SHAPE_CSAW,
+  MACRO_OSC_SHAPE_SAW_SWARM,
+
   RESOLUTION_16_BIT,
   SAMPLE_RATE_96K,
   
